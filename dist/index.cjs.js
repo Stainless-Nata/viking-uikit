@@ -2078,7 +2078,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://t.me/VikingSwapOfficial",
     },
 ];
 var MENU_HEIGHT = 64;
