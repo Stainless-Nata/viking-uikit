@@ -2054,7 +2054,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/VikingSwap",
+                href: "https://t.me/VikingSwapOfficial",
             },
             {
                 label: "Announcements",
@@ -2065,7 +2065,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://t.me/VikingSwapOfficial",
+        href: "https://twitter.com/vikingswap",
     },
 ];
 var MENU_HEIGHT = 64;
